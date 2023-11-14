@@ -1,0 +1,18 @@
+.NavBar {
+    display: flex;
+    justify-content: space-around;
+}
+.boton {
+    margin: 10px;
+    background-color: rgb(14, 189, 81);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.divcarrito {
+    display: flex;
+    text-align: center;
+    align-items: center;
+
+}
